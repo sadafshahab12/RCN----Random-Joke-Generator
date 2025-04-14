@@ -27,7 +27,7 @@ def main():
     st.markdown(
         """
       <div style=" text-align: center;">
-      <h4>🤣</h4>
+      <h4>💜</h4>
       <p>Hi I am Front End Developer. Watch my Project on my github profile link below:</p>
       <div style=" display: flex; justify-content: center; align-items: center; gap: 16px;">
       
